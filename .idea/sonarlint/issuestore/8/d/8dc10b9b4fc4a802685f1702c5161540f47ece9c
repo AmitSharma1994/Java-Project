@@ -1,0 +1,14 @@
+
+˜
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(½Ïâÿÿÿÿÿ8ÓªŠÙ1J$069527d6-1a43-453e-b878-8009fb94ed96
+˜
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Øã€úÿÿÿÿ8èâŠÙ1J$5456f4ea-1c9c-4e36-b5a5-e0ea333f4b3c
+˜
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(©à•èøÿÿÿÿ8æâŠÙ1J$bd1cec81-3d5e-4911-935f-88cd6d84f02f
+r	java:S106"+Replace this use of System.out by a logger.(ßÖÈØşÿÿÿÿ8¶äŒŠÙ1J$8d6a0185-796a-4e8b-9c0f-01fb44271e24
+r	java:S106"+Replace this use of System.out by a logger.(½Ïâÿÿÿÿÿ8¹äŒŠÙ1J$8559a466-84d9-420d-8e9d-34f7304548fd
+r	java:S106"+Replace this use of System.out by a logger.(©à•èøÿÿÿÿ8ºäŒŠÙ1J$b25f8d5a-1ddc-4711-a719-a1ed8394e72f
+ƒ
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Ş•¥³8ÑãŠÙ1J$12765b84-8f3c-47ab-9a18-9508bb6d9d89
+m	java:S106"+Replace this use of System.out by a logger.(Ş•¥³8ÕãŠÙ1J$c543ecb7-ffc4-4e80-8c39-f956b5300987
+r	java:S106"+Replace this use of System.out by a logger.(Øã€úÿÿÿÿ8æªŠÙ1J$ea7afe80-45e9-4012-b6e1-4d5742c11fa8

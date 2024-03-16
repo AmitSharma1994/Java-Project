@@ -1,0 +1,34 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+y
+java:S1192B"^Define a constant instead of duplicating this literal "-----------------------------" 4 times.(ÀÏ°ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(˜¤´Ì
+@	java:S106""+Replace this use of System.out by a logger.(ŸÏÍè
+E	java:S106$"+Replace this use of System.out by a logger.(şæ£ñşÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(¡êĞÒ
+E	java:S106*"+Replace this use of System.out by a logger.(ÊÆÄŒÿÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(Õ÷õúÿÿÿÿ
+@	java:S106/"+Replace this use of System.out by a logger.(›‘Ù
+@	java:S1062"+Replace this use of System.out by a logger.(ÿµ‰
+E	java:S1066"+Replace this use of System.out by a logger.(Õ÷õúÿÿÿÿ
+@	java:S1069"+Replace this use of System.out by a logger.(¼€¡û
+E	java:S106>"+Replace this use of System.out by a logger.(ˆ¢Ûßüÿÿÿÿ
+E	java:S106B"+Replace this use of System.out by a logger.(ÀÏ°ıÿÿÿÿ
+E	java:S106E"+Replace this use of System.out by a logger.(ûû‡âüÿÿÿÿ
+?	java:S106J"+Replace this use of System.out by a logger.(Œôy
+E	java:S106M"+Replace this use of System.out by a logger.(ÀÏ°ıÿÿÿÿ
+@	java:S106Q"+Replace this use of System.out by a logger.(°ôíÁ
+B
+java:S1602S",Remove useless curly braces around statement( ÿëâ
+V
+java:S1612S"@Replace this lambda with method reference 'System.out::println'.( ÿëâ
+E	java:S106T"+Replace this use of System.out by a logger.(ì­øúÿÿÿÿ
+E	java:S106W"+Replace this use of System.out by a logger.(ÀÏ°ıÿÿÿÿ
+@	java:S106["+Replace this use of System.out by a logger.(óƒ‡¶
+G
+java:S1602\",Remove useless curly braces around statement(Öˆ±Íÿÿÿÿÿ
+[
+java:S1612\"@Replace this lambda with method reference 'System.out::println'.(Öˆ±Íÿÿÿÿÿ
+E	java:S106^"+Replace this use of System.out by a logger.(ì­øúÿÿÿÿ
+E	java:S106b"+Replace this use of System.out by a logger.(ÀÏ°ıÿÿÿÿ

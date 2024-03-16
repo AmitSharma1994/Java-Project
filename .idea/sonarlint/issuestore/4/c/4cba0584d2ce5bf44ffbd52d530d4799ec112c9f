@@ -1,0 +1,12 @@
+
+f
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ï°°ô
+f
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‹±Ùÿ
+?	java:S106"+Replace this use of System.out by a logger.(É⁄·B
+V	java:S125"<This block of commented-out lines of code should be removed.(çÁ¬⁄¸ˇˇˇˇ
+V	java:S125"<This block of commented-out lines of code should be removed.(œ¸∂˙˘ˇˇˇˇ
+E	java:S106"+Replace this use of System.out by a logger.(„ø¢‘˘ˇˇˇˇ
+E	java:S106"+Replace this use of System.out by a logger.(∞ŸÂÖ˘ˇˇˇˇ
+E	java:S106"+Replace this use of System.out by a logger.(éáÙ˛ˇˇˇˇ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ò˝ÍÕ

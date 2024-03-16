@@ -1,0 +1,11 @@
+
+E
+java:S3740G"/Provide the parametrized type for this generic.(Å»¶Ş
+o
+java:S1210W"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(î«é“
+@	java:S106M"+Replace this use of System.out by a logger.(µîÀ
+E	java:S106N"+Replace this use of System.out by a logger.(Ú¾¬ûÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(ƒ”Ãçÿÿÿÿÿ
+E	java:S106Q"+Replace this use of System.out by a logger.(‰éŞ¾ûÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(ƒ”Ãçÿÿÿÿÿ
+E	java:S106S"+Replace this use of System.out by a logger.(Ú¾¬ûÿÿÿÿ

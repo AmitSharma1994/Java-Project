@@ -1,0 +1,25 @@
+
+m
+java:S3655C"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ñë¥†8×ºÔ„¾1
+l
+java:S3655>"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(®ÑØY8×ºÔ„¾1
+R
+java:S1854_"5Remove this useless assignment to local variable "a".(ÿÚÖ«8ÌƒÔ„¾1
+G	java:S106"+Replace this use of System.out by a logger.(÷ğåŸ8ÌƒÔ„¾1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ïâ›®ùÿÿÿÿ8ÌƒÔ„¾1
+L	java:S106""+Replace this use of System.out by a logger.(‡îÁÂùÿÿÿÿ8ÌƒÔ„¾1
+L	java:S106*"+Replace this use of System.out by a logger.(Õ§ÛŸûÿÿÿÿ8ÌƒÔ„¾1
+L	java:S1063"+Replace this use of System.out by a logger.(Ï•­æÿÿÿÿÿ8ÜƒÔ„¾1
+L	java:S1069"+Replace this use of System.out by a logger.(ù£ª«ıÿÿÿÿ8ÜƒÔ„¾1
+F	java:S106>"+Replace this use of System.out by a logger.(®ÑØY8ÜƒÔ„¾1
+>
+java:S2153C"!Remove the boxing to "Character".(ñë¥†8âƒÔ„¾1
+\
+java:S1612G":Replace this lambda with method reference 'Entry::getKey'.(ŸëÖùÿÿÿÿ8âƒÔ„¾1
+L	java:S106I"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8âƒÔ„¾1
+L	java:S106R"+Replace this use of System.out by a logger.(òËŠ‰ÿÿÿÿÿ8âƒÔ„¾1
+F	java:S106X"+Replace this use of System.out by a logger.(êŒ‘8âƒÔ„¾1
+Y
+java:S1612_"<Replace this lambda with method reference 'String::isEmpty'.(ÿÚÖ«8ôºÔ„¾1
+C
+java:S1481_"&Remove this unused "a" local variable.(ÿÚÖ«8âƒÔ„¾1
